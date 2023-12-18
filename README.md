@@ -1,1 +1,2 @@
-# CLASS-31-PROJECT
+# zombie-crush-3
+project solution of c31
